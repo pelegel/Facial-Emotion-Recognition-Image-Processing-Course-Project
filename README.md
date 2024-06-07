@@ -1,3 +1,6 @@
+# Final Project in mage Processing and Analysis Course at Ben Gurion University
+ Peleg Eliyahou & Moshiko Cohen & Ofir Azulay
+
 In this project, we have decided to explore the task of image emotion classification, in particular, happy, angry and sad – three very common emotions. Understanding and identifying those emotions is a crucial aspect in 
 many fields, such as human-robots interaction, and effectively classifying them can improve those interfaces.
 
